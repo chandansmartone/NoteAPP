@@ -3,7 +3,7 @@ Simple Note app using ReactJS
 Manage your work, home, personal tasks with notes app. Add ability to add, edit, delete, and mark them as completed. Additional features include searching, filtering and visualizing completion progress.
 
 ### :point_right: [DEMO](https://zipzip1312.github.io/React-Notes-App/) 
-## :hammer: Technologies & Tools
+## Technologies & Tools
 
 - React
 - Redux ([Redux Toolkit](https://redux-toolkit.js.org/))
@@ -12,7 +12,7 @@ Manage your work, home, personal tasks with notes app. Add ability to add, edit,
 - LocalStorage
 - Web worker
 
-## :trophy: Features
+##Features
 
 - Users can search and filter notes.
 - Users can add new notes.
@@ -24,14 +24,14 @@ Manage your work, home, personal tasks with notes app. Add ability to add, edit,
 - When editing notes, the date of note also updates all together with other fields.
 - Confirmation pops up when deleting notes.
 
-## :gem: Additional Features
+## Additional Features
 
 - Notes data stored in localStorage
 - Installable (PWA)
 - Optimized for mobile
 - Ability to mock notes if notes list is empty
 
-## :wrench: Project setup
+## Project setup
 
 ```bash
 # In the project directory run:
